@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Sina</h1>
 <h3 align="center">A passionate full stack developer from Toronto, Canada</h3>
-
+- 🔭 I'm a 4th year Software Engineering student @Lassonde School of Engineering, York University located in Toronto, Ontario.
+- 🌱 I’m currently learning about Software Design and building compilers.
+- ⚡ Fun fact: I am an extremely ambitious and organized person.
 - 🔭 I’m currently working on [Warehouse Management System](alisina.tech/)
 
 <h3 align="left">Connect with me:</h3>
