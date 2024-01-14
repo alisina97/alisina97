@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali Sina</h1>
 
 - 🔭 I'm a 4th year Software Engineering student @Lassonde School of Engineering, York University located in Toronto, Ontario.
-- I’m currently working on [Warehouse Management System](alisina.tech/) 
-- 🌱 I’m currently learning about Software Design and building compilers.
+- 🌱 I’m currently working on [Warehouse Management System](alisina.tech/)
 - ⚡ Fun fact: I've been working as a UI/UX Designer for over 4 years before!
+- 🔭 I’m currently learning about Software Design and building compilers.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
