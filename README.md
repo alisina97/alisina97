@@ -2,7 +2,7 @@
 
 - 🔭 I'm a 4th year Software Engineering student @Lassonde School of Engineering, York University located in Toronto, Ontario.
 - 🌱 I’m currently working on [Warehouse Management System]([https://github.com/alisina97/WarehouseManagementSystem)
-- ⚡ Fun fact: I've been working as a UI/UX Designer for over 4 years before!
+- ⚡ Fun fact: Our village where I was born only had one computer and here I am today graduating from software engineering!
 - 🔭 I’m currently learning about Software Testing and building eCommerce Systems. 
 
 
